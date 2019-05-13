@@ -28,10 +28,10 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-var counter;                                // unknown (any) type
-var counter = 0;                         // number (inferred)
-var counter : number;               // number
-var counter : number = 0;        // number
+var counter;                            // unknown (any) type
+var counter = 0;                       // number (inferred)
+var counter : number;                  // number
+var counter : number = 0;              // number
 ```
 
 **Following is what you need for this book:**
