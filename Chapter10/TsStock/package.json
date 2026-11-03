@@ -24,7 +24,7 @@
     "bootstrap": "^3.3.5",
     "datatables": "^1.10.8",
     "handlebars": "^3.0.3",
-    "highcharts": "0.0.9",
+    "highcharts": "11.4.9",
     "jquery": "^2.1.4",
     "q": "^1.4.1"
   },
